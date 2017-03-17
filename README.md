@@ -6,3 +6,4 @@ Azure Certification Training 70533 VNET
 2. [Create Site-to-Site VPN](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal?toc=%2fazure%2fvirtual-network%2ftoc.json)
 3. [Create VNet-to-VNet VPN](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps?toc=%2fazure%2fvirtual-network%2ftoc.json)
 4. [ExpressRoute](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager?toc=%2fazure%2fvirtual-network%2ftoc.json)
+5. [Multiple NICs](https://azure.microsoft.com/en-us/blog/multiple-vm-nics-and-network-virtual-appliances-in-azure/)
